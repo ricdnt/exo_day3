@@ -6,8 +6,7 @@ mv yoop.txt newfolder
 
 echo "hello world" >> yoop.text
 
-I just add text, no more command !!
-
+just add new lines of text !! No more commands !
 
 
 
